@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  I'm a data scientist with a background in physics, and I enjoy solving problems that require a mix of reasoning and creativity. From unconventional LLM use cases to chess apps or computer vision bots, I'm always experimenting with ALL aspects of AI.
+  I'm a data scientist with a background in physics, exploring creative uses of AI — from LLMs and computer vision to automation.
 </p>
 
 <p align="center">
