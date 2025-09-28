@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  My portfolio @ <a href="https://pafonso.dev"><strong>pafonso.dev</strong></a> — includes my projects, interests, and things I’m currently building or thinking about.
+  My portfolio @ <a href="https://pafonso.dev"><strong>pafonso.dev</strong></a> — includes my projects and interests.
 </p>
 
 <p align="center">Feel free to reach out :)</p>
@@ -31,7 +31,7 @@
 
 <br/>
 
-<p align="center"><i>Just building stuff I’d want to use.</i></p>
+<!--<p align="center"><i>Just building stuff I’d want to use.</i></p>-->
 
 <p align="center">
   <a href="https://github.com/pafonsoDS">
