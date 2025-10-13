@@ -4,11 +4,7 @@
 </p>
 
 <p align="center">
-  I'm a data scientist with a background in physics, exploring creative uses of AI — from LLMs and computer vision to automation.
-</p>
-
-<p align="center">
-  My portfolio @ <a href="https://pafonso.dev"><strong>pafonso.dev</strong></a> — includes my projects and interests.
+  I'm a data scientist with a background in physics exploring AI! My preffered domains are LLMs, computer vision and automation.
 </p>
 
 <p align="center">Feel free to reach out :)</p>
@@ -21,17 +17,12 @@
   <a href="mailto:pedrosa.afonso@hotmail.com">
     <img src="https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
-  <a href="https://pafonso.dev">
-    <img src="https://img.shields.io/badge/Portfolio-1E1E1E?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
   <!--<a href="https://github.com/pafonsoDS">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a> this is totally pointless lol-->
 </p>
 
 <br/>
-
-<!--<p align="center"><i>Just building stuff I’d want to use.</i></p>-->
 
 <p align="center">
   <a href="https://github.com/pafonsoDS">
