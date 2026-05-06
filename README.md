@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  I'm a data scientist with a background in physics exploring AI! My preffered domains are LLMs, Computer Vision and Automation.
+  I'm a data scientist with a background in physics exploring AI! My preferred domains are LLMs, Computer Vision and Automation.
 </p>
 
 <p align="center">Feel free to reach out :)</p>
